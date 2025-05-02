@@ -1,5 +1,3 @@
-#de with the Excel file creation and updating integrated into your original code. The changes are mostly around loading and saving the attendance data to the Excel file.
-
 import streamlit as st
 import face_recognition
 import cv2
