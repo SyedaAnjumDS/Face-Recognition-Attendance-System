@@ -4,6 +4,11 @@ A real-time face recognition-based attendance system built with Python, Streamli
 This app provides a user-friendly web interface to manage attendance, add new faces, view records, and control when attendance is captured.
 
 
+**Demo Screenshots:**
+
+
+
+
 **Key Features:**
 
 Real-time face detection and recognition via webcam.
@@ -43,11 +48,18 @@ Click "View Attendance" in the sidebar to display the Excel attendance log insid
 
 
 
-**Technology Stack:**
+**Technology Used:**
+
 --Python 3.x
+
 --Streamlit – UI framework
+
 --OpenCV – webcam and image processing
+
 --face_recognition – face detection & encoding
+
 --Pandas – Excel file handling
+
 --NumPy
+
 --datetime – timestamp management
