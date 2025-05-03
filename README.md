@@ -3,12 +3,6 @@
 A real-time face recognition-based attendance system built with Python, Streamlit, OpenCV, face_recognition, and Pandas, which uses a webcam to detect and recognize faces and automatically logs attendance into an Excel file.
 This app provides a user-friendly web interface to manage attendance, add new faces, view records, and control when attendance is captured.
 
-
-**Demo Screenshots:**
-
-
-
-
 **Key Features:**
 
 Real-time face detection and recognition via webcam.
