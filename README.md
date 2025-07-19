@@ -57,3 +57,12 @@ Click "View Attendance" in the sidebar to display the Excel attendance log insid
 --NumPy
 
 --datetime – timestamp management
+
+
+**Sample screenshots of the app:**
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/81cd3024-a409-4ab7-9df3-8ac5bafc92a0" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/96a6719f-4a52-4590-a909-65a2cdcd5ef8" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/678f9db4-3a92-428a-8a24-7356a6e92f38" />
+
+
+
